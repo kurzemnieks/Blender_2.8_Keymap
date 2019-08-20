@@ -1,11 +1,10 @@
-# Blender_2.8_Keymap
-Custom keymap for Blender 2.8
+# Custom keymaps for Blender 2.8x 
 
 1. Download and install enter_edit_submode.py addon. This adds new operator to directly enter component edit modes from object mode. 
-2. Download and install customized_28.py keymap
+2. Download and install Keymap_RE_2.8x.py keymap
 
-# Blender_2.8_new Keymap
-This is similar to the old one, but with some key mappings taken from the new **Industry Standard keymap**. 
+# Keymap_RE_2.80 Keymap
+This is similar with my old 2.79 keymap, but with some key mappings taken from the new **Industry Standard keymap**. 
 Biggest changes are with transformation tools:
 **Grab is W
 Rotate is E
@@ -25,9 +24,9 @@ Updated keymap for Blender 2.81 (Daily builds). This is the most fresh one - inc
 Don't use it in 2.80!!
 
 
-# Key changes from default or Industry Standard:
 
-All viewport navigation shortcuts have been moved from numpad to regular number keys (Easier to reach with left hand and also on laptops with no numpads / tenkeyless keyboards )
+# Key changes from default or Industry Standard:
+All viewport navigation shortcuts have been moved from numpad to regular number keys (Easier to reach with left hand and also on laptops with no numpads / tenkeyless keyboards ). 
 
 Alt + 1,2,3  - directly enter vertex,edge,polygon edit modes from object mode.
 
