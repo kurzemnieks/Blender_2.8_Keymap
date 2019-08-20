@@ -20,6 +20,10 @@ I did this to make main fuctions the same as in Industry Standard keymap, so it 
 
 Likely from now on, i will use and update only this one.
 
+# Keymap_RE_2.81 
+Updated keymap for Blender 2.81 (Daily builds). This is the most fresh one - includes new Outliner functionality.
+Don't use it in 2.80!!
+
 
 # Key changes from default or Industry Standard:
 
